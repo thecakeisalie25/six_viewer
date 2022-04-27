@@ -3,6 +3,12 @@ name = "six_viewer"
 version = "0.1.0"
 edition = "2021"
 
+license = "WTFPL"
+description = "A short program to color output based on an output.txt file."
+homepage = "https://yeet.work/"
+repository = ""
+
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
